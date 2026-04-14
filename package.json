@@ -1,0 +1,17 @@
+{
+  "name": "taller-express-v2-td",
+  "version": "1.0.0",
+  "description": "Proyecto básico con login y roles usando Express",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "Tu nombre",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.0.0",
+    "express": "^5.1.0"
+  }
+}
